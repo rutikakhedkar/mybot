@@ -1,16 +1,9 @@
 # mybot
-
-A new Flutter project.
+A diet suggestion bot based on google gemini
 
 ## Getting Started
+flutter run
 
-This project is a starting point for a Flutter application.
+<img width="1914" height="899" alt="image" src="https://github.com/user-attachments/assets/094bd162-c2d5-4d8b-bc3e-a109a3eb0966" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
